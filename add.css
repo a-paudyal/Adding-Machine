@@ -1,0 +1,19 @@
+body {
+  background-color: #0099ff;
+  font-family: monospace;
+  font-size: 40px;
+}
+
+input {
+  font-family: monospace;
+  background-color: #80ccff;
+  font-size: 30px;
+  border: 2px solid black;
+  color: black;
+}
+
+input:hover {
+  background-color: #004d80;
+  border: 2px solid white;
+  color: white;
+}
